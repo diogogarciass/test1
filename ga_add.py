@@ -1,6 +1,5 @@
 import streamlit as st
 import sqlite3
-import streamlit_shadcn_ui as ui
 import datetime
 import pandas as pd
 
